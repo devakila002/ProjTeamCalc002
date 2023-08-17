@@ -1,0 +1,15 @@
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/bin/Debug/net7.0/ConsoleCalc
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/bin/Debug/net7.0/ConsoleCalc.deps.json
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/bin/Debug/net7.0/ConsoleCalc.runtimeconfig.json
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/bin/Debug/net7.0/ConsoleCalc.dll
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/bin/Debug/net7.0/ConsoleCalc.pdb
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ConsoleCalc.csproj.AssemblyReference.cache
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ConsoleCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ConsoleCalc.AssemblyInfoInputs.cache
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ConsoleCalc.AssemblyInfo.cs
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ConsoleCalc.csproj.CoreCompileInputs.cache
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ConsoleCalc.dll
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/refint/ConsoleCalc.dll
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ConsoleCalc.pdb
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ConsoleCalc.genruntimeconfig.cache
+/home/devakila001/2023/202308/20230817/ProjTeamCalc002/ConsoleCalc/obj/Debug/net7.0/ref/ConsoleCalc.dll
